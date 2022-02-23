@@ -22,6 +22,11 @@
       <router-link to="/radio2">radio2</router-link> |
       <router-link to="/radio3">radio3</router-link> |
       <router-link to="/radio4">radio4</router-link>
+      <h1>Select options</h1>
+      <router-link to="/select1">select1</router-link> |
+      <router-link to="/select2">select2</router-link> |
+      <router-link to="/select3">select3</router-link> |
+      <router-link to="/select4">select4</router-link>
     </div>
   </div>
 </template>
